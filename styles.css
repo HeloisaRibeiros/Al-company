@@ -300,9 +300,12 @@ footer{
     .cabecalho__item{
         display: flex;
         gap: 0;
-        margin-top: 2em;
-        font-size:12px;
+        margin-top: 2em;   
+    }
+
+    .cabecalho__item__menu{
         
+
     }
 
     .logo__cabecalho{
